@@ -10,5 +10,5 @@ tqdm
 lmdb
 pyyaml
 scipy
-tb-nightly
+tensorboard>=2.14
 yapf
